@@ -27,6 +27,6 @@ SQL file (for direct DB import)
 Link: https://github.com/alfiza/FormBuilder/blob/206606113e5f1a814204f2e8de7cc15769bc5194/form_builder.sql
 
 
-Demo video link : 
+Demo video link : https://www.awesomescreenshot.com/video/7739089?key=92f5744aac43a0b5255118c23fdbd010
 
 
