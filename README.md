@@ -1,5 +1,9 @@
+
+## Setup
+
 step 1.
 Database Name : form_builder
+
 
 step 2.
 php artisan migrate
@@ -10,6 +14,11 @@ php artisan db:seed
 Step 4. Login
 Username : admin@gmail.com
 Password : 123456789
+
+Link: https://github.com/alfiza/FormBuilder/blob/206606113e5f1a814204f2e8de7cc15769bc5194/form_builder.sql
+
+
+
 
 ## About Laravel
 
