@@ -40,11 +40,11 @@
                                         <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span>
                                         <span><strong>View</strong></span>            
                                     </a>
-                                    <a href='{{ url("/forms/{$val->id}/edit") }}' class="btn btn-primary a-btn-slide-text">
+                                    <a href='{{ url("/forms/{$val->id}/edit") }}' class="btn btn-dark a-btn-slide-text">
                                         <span class="glyphicon glyphicon-edit" aria-hidden="true"></span>
                                         <span><strong>Edit</strong></span>            
                                     </a>
-                                    <a href="javascript:void(0)" onclick="deleteFormConfirm({{$val->id}})" class="btn btn-primary a-btn-slide-text">
+                                    <a href="javascript:void(0)" onclick="deleteFormConfirm({{$val->id}})" class="btn btn-danger a-btn-slide-text">
                                         <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
                                         <span><strong>Delete</strong></span>            
                                     </a>
